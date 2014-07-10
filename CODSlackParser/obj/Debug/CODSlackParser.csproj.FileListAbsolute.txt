@@ -1,0 +1,6 @@
+C:\Users\Bas\Documents\Visual Studio 2012\Projects\CODSlackParser\CODSlackParser\bin\Debug\CODSlackParser.exe.config
+C:\Users\Bas\Documents\Visual Studio 2012\Projects\CODSlackParser\CODSlackParser\bin\Debug\CODSlackParser.exe
+C:\Users\Bas\Documents\Visual Studio 2012\Projects\CODSlackParser\CODSlackParser\bin\Debug\CODSlackParser.pdb
+C:\Users\Bas\Documents\Visual Studio 2012\Projects\CODSlackParser\CODSlackParser\obj\Debug\CODSlackParser.csprojResolveAssemblyReference.cache
+C:\Users\Bas\Documents\Visual Studio 2012\Projects\CODSlackParser\CODSlackParser\obj\Debug\CODSlackParser.exe
+C:\Users\Bas\Documents\Visual Studio 2012\Projects\CODSlackParser\CODSlackParser\obj\Debug\CODSlackParser.pdb
